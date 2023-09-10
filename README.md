@@ -1,4 +1,4 @@
-# Kingroon_KP3S_Pro_Marlin
+# Kingroon KP3S Pro Marlin
 Marlin firmware for Kingroon KP3S Pro
 
 Marlin v2.1.2.1 for Kingroon KP3S Pro (and S1) 3D printer.
