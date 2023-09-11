@@ -1,4 +1,7 @@
 # Kingroon KP3S Pro Marlin
+
+Don't use! SD not working. Still on bug fix!
+
 Marlin firmware for Kingroon KP3S Pro
 
 Marlin v2.1.2.1 for Kingroon KP3S Pro (and S1) 3D printer.
