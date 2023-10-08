@@ -1,4 +1,4 @@
-# Kingroon KP3S Pro Marlin
+# Kingroon KP3S Pro Marlin Firmware
 
 Marlin firmware for Kingroon KP3S Pro
 
