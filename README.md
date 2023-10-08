@@ -12,4 +12,4 @@ Linear Advance (0.08 for PLA);
 Input Shaper,
 portrait display.
 
-NOTE: for BL-Touch put endstop to Z-Max endstop and remove endstop switch from Z-Min.
+NOTE: for BL-Touch put endstop to Z-Max endstop and remove endstop switch plug from Z-Min.
