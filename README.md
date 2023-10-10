@@ -8,7 +8,14 @@ Details:
 no BLTouch, 
 manual mesh with 16 points bed leveling,
 PID tuning menu,
-Linear Advance (0.08 for PLA);
+Linear Advance (0.06 for PLA);
+Input Shaper,
+portrait display.
+
+BLTouch, 
+Bilinear 16 points bed leveling,
+PID tuning menu,
+Linear Advance (0.06 for PLA);
 Input Shaper,
 portrait display.
 
