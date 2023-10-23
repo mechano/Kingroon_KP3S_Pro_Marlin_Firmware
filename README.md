@@ -10,13 +10,15 @@ manual mesh with 16 points bed leveling,
 PID tuning menu,
 Linear Advance (0.06 for PLA);
 Input Shaper,
-portrait display.
+portrait display,
+resume on power loss.
 
 BLTouch, 
 Bilinear 16 points bed leveling,
 PID tuning menu,
 Linear Advance (0.06 for PLA);
 Input Shaper,
-portrait display.
+portrait display,
+resume on power loss.
 
 NOTE: for BL-Touch put endstop to Z-Max endstop and remove endstop switch plug from Z-Min.
