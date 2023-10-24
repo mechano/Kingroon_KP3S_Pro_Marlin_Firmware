@@ -15,6 +15,7 @@ resume on power loss.
 
 BLTouch, 
 Bilinear 16 points bed leveling,
+Z-offset wizard,
 PID tuning menu,
 Linear Advance (0.06 for PLA);
 Input Shaper,
