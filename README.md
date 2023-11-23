@@ -13,16 +13,7 @@ Input Shaper,
 portrait display,
 resume on power loss.
 
-BLTouch, 
-Bilinear 16 points bed leveling,
-Z-offset wizard,
-PID tuning menu,
-Linear Advance (0.06 for PLA);
-Input Shaper,
-portrait display,
-resume on power loss.
-
-NOTE: for BL-Touch put endstop to Z-Max endstop and remove endstop switch plug from Z-Min.
+NOTE: for BL-Touch put endstop to Z-Max endstop.
 
 For people who find useful this release, I'll appreciate donation in filament 1.75mm. 
 On discussion details where to ship.
