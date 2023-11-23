@@ -8,12 +8,11 @@ Details:
 no BLTouch, 
 manual mesh with 16 points bed leveling,
 PID tuning menu,
+300°C nozzle (use HT-NTC100K stainless steel thermistor)
 Linear Advance (0.06 for PLA);
 Input Shaper,
 portrait display,
 resume on power loss.
-
-NOTE: for BL-Touch put endstop to Z-Max endstop.
 
 For people who find useful this release, I'll appreciate donation in filament 1.75mm. 
 On discussion details where to ship.
