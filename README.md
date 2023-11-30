@@ -8,7 +8,7 @@ Details:
 no BLTouch, 
 manual mesh with 16 points bed leveling,
 PID tuning menu,
-300°C nozzle (use HT-NTC100K stainless steel thermistor),
+290°C nozzle (use HT-NTC100K stainless steel thermistor),
 Linear Advance (0.06 for PLA);
 Input Shaper,
 portrait display,
