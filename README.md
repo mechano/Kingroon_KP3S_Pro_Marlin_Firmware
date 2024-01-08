@@ -17,5 +17,4 @@ resume on power loss.
 
 Unzip the archive and choose the version for your printer's setup.
 
-For people who find useful this release, I'll appreciate donation in filament 1.75mm. 
-On discussion details where to ship.
+Paypal email for donations: mr.mechano@gmail.com
