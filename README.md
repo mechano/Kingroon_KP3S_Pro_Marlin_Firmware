@@ -2,7 +2,7 @@
 
 Marlin firmware for Kingroon KP3S Pro
 
-Marlin v2.1.2.x bugfix till 20231223 for Kingroon KP3S Pro (and S1) 3D printer.
+Marlin v2.1.2.x bugfix till 20231229 for Kingroon KP3S Pro (and S1) 3D printer.
 
 Details:
 Versions for Manual bed leveling and Automated leveling with BLTouch, 
