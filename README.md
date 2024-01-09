@@ -15,6 +15,8 @@ Input Shaper,
 portrait display,
 resume on power loss.
 
+Octoprint friendly with HOST_ACTION_COMMANDS active.
+
 Unzip the archive and choose the version for your printer's setup.
 
 Paypal email for donations: mr.mechano@gmail.com
